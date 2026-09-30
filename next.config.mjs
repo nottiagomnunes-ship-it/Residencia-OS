@@ -1,4 +1,3 @@
-export default { images: {} }
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   typescript: {
