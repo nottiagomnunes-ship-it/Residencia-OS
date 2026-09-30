@@ -1,0 +1,8 @@
+{
+  "/(app)/questoes/page": "app/(app)/questoes/page.js",
+  "/(app)/caderno-de-erros/page": "app/(app)/caderno-de-erros/page.js",
+  "/(app)/desempenho/page": "app/(app)/desempenho/page.js",
+  "/(app)/simulados/page": "app/(app)/simulados/page.js",
+  "/(app)/disciplinas/page": "app/(app)/disciplinas/page.js",
+  "/(app)/conteudos/page": "app/(app)/conteudos/page.js"
+}
